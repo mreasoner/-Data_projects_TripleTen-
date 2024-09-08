@@ -5,6 +5,7 @@ Projects I worked on while attending the Business Intelligence Analysis TripleTe
 
 
 | Project number | Title | Description |
+| :-----------: | ----------- |----------- |
 | 1 |
 | 2 |
-| 3 | |----------- |
+| 3 |
